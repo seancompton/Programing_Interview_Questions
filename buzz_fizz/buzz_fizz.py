@@ -3,7 +3,6 @@ INCRAMENTS = 100
 
 def is_buzz_or_fizz(number, multiples):
     fizz_or_buzz = ""
-    x = 0
     words = ["buzz", "fizz", "bizz", "dizz", "wizz", "vizz"]
 
     for i in range(len(multiples)):

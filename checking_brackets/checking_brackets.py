@@ -1,4 +1,3 @@
- 
 with open("checking_brackets/brackets.txt") as brackets:
     for i in brackets:
         line_stripped = i.strip()

@@ -1,0 +1,5 @@
+The purpose of this program is to learn how to demenstrate how to work with arrays and deal with decimal precision:
+In this program I wrote a function that takes an array as a parameter and with that array it finds out how many 
+positive, negative, and numbers that are equall to zero that are in the array.  After it has done that it does
+some math to find out what ratio each of the above zero numbers, below zero numbers, and numbers equall to zero are
+compared to the total number of numbers in the array.  It then prints out that number to 6 decimal places of accuracy
